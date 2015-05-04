@@ -198,8 +198,6 @@
 	<script src="//cdnjs.cloudflare.com/ajax/libs/mixitup/1.5.6/jquery.mixitup.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 	<script src="js/script.js"></script>
-	<script src="js/smooth-scroll.min.js"></script>
-	<script src="js/script.js"></script>
 	<script>
 
 		smoothScroll.init();
