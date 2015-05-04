@@ -1,0 +1,174 @@
+{
+
+	"darkglass.com": {
+		"name": "Darkglass Electronics",
+		"url" : "http://www.darkglass.com",
+		"description" : "darkglass.com<br>wordpress theme",
+		"image" : {
+			"thumb" : "p/web/darkglass.jpg",
+			"big"	: "p/web/darkglass_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "web"
+	},
+
+	"budapeste": {
+		"name": "Budapest",
+		"url" : "",
+		"description" : "",
+		"image" : {
+			"thumb" : "p/photo/budapest.jpg",
+			"big"	: "p/photo/budapest_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "photo"
+	},
+
+
+	"loja.derolt.com.br": {
+		"name": "DeRolt Jóias",
+		"url" : "http://loja.derolt.com.br",
+		"description" : "loja.derolt.com.br<br>magento webstore",
+		"image" : {
+			"thumb" : "p/web/derolt.jpg",
+			"big"	: "p/web/derolt_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "web"
+	},
+
+	"fazenda rio encantado": {
+		"name": "Fazenda Rio Encantado",
+		"url" : "http://www.fazendarioencantado.com.br",
+		"description" : "fazendarioencantado.com.br<br>website",
+		"image" : {
+			"thumb" : "p/web/fazendarioencantado.jpg",
+			"big"	: "p/web/fazendarioencantado_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "web"
+	},
+
+
+	"danielandrade.net": {
+		"name": "daniel andrade",
+		"url" : "http://www.danielandrade.net",
+		"description" : "danielandrade.net<br>wordpress theme",
+		"image" : {
+			"thumb" : "p/web/danielandrade.jpg",
+			"big"	: "p/web/danielandrade_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "web"
+	},
+
+	"road to patagonia": {
+		"name": "Road To Patagonia",
+		"url" : "http://roadtopatagonia.net",
+		"description" : "roadtopatagonia.net<br>jekyll blog",
+		"image" : {
+			"thumb" : "p/web/roadtopatagonia.jpg",
+			"big"	: "p/web/roadtopatagonia_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "web"
+	},
+
+	"fairuzmaggio": {
+		"name": "Fairuz Maggio Blog",
+		"url" : "https://fairuzmaggio.net",
+		"description" : "fairuzmaggio.net<br>wordpress blog",
+		"image" : {
+			"thumb" : "p/web/fairuzmaggio.jpg",
+			"big"	: "p/web/fairuzmaggio_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "web"
+	},
+
+	"ares dev board": {
+		"name": "Ares ARM Cortex Dev Board",
+		"url" : "",
+		"description" : "Ares ARM Cortex Dev Board",
+		"image" : {
+			"thumb" : "p/eng/ares.jpg",
+			"big"	: "p/eng/ares_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "eng"
+	},
+
+	"programmable pedal": {
+		"name": "Programmable Pedal",
+		"url" : "",
+		"description" : "Programmable instrument pedal",
+		"image" : {
+			"thumb" : "p/eng/pedal.jpg",
+			"big"	: "p/eng/pedal_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "eng"
+	},
+
+	"thesis board": {
+		"name": "Mesh Network Node",
+		"url" : "",
+		"description" : "Thesis Project",
+		"image" : {
+			"thumb" : "p/eng/thesis.jpg",
+			"big"	: "p/eng/thesis_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "eng"
+	},
+
+	"renato pimentel": {
+		"name": "Renato Pimentel",
+		"url" : "",
+		"description" : "Renato Pimentel",
+		"image" : {
+			"thumb" : "p/photo/renato.jpg",
+			"big"	: "p/photo/renato_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "photo"
+	},
+
+	"alex paulista": {
+		"name": "Alex Paulista",
+		"url" : "",
+		"description" : "Alex Paulista",
+		"image" : {
+			"thumb" : "p/photo/alex.jpg",
+			"big"	: "p/photo/alex_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "photo"
+	},
+
+	"brasil papaya": {
+		"name": "Brasil Papaya DVD Cover",
+		"url" : "",
+		"description" : "Brasil Papaya",
+		"image" : {
+			"thumb" : "p/photo/bpapaya.jpg",
+			"big"	: "p/photo/bpapaya_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "photo"
+	}
+
+}
