@@ -20,8 +20,8 @@ $(document).ready(function($) {
 		  $("#mobile_menu").fadeToggle("slow");
 	});
 
-});
-
+}); 
+//comment test  
 	$(function () {
 
 		var filterList = {
