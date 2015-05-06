@@ -81,13 +81,6 @@
 				</div>
 			</div>
 
-			<ul id="filters" class="clearfix">
-				<li><span class="filter active" data-filter="web eng photo">All</span></li>
-				<li><span class="filter" data-filter="web">Web</span></li>
-				<li><span class="filter" data-filter="eng">Engineering</span></li>
-				<li><span class="filter" data-filter="photo">Photography</span></li>
-			</ul>
-
 			<div id="portfoliolist">
 				<ul class="ch-grid">
 					<?php
@@ -97,10 +90,10 @@
 					?>
 						<!-- <?php echo $folio->name; ?> -->
 						<li>
-							<div class="ch-item" style="background-image: url(<?php echo $folio->image->thumb; ?>);">
+							<div data-toggle="modal" data-target="#myModal-<?php echo $i; ?>" class="ch-item <?php echo $folio->category; ?>" data-cat="<?php echo $folio->category; ?>" style="background-image: url(<?php echo $folio->image->thumb; ?>); background-size: cover;">
 								<div class="ch-info">
 									<h3><?php echo $folio->name; ?></h3>
-									<p>by Angela Duncan <a href="http://drbl.in/eOPF">View on Dribbble</a></p>
+									<p><?php echo $folio->description; ?></p>
 								</div>
 							</div>
 						</li>

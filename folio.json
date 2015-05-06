@@ -3,7 +3,7 @@
 	"carolinareginato.com.br": {
 		"name": "Carolina Reginato",
 		"url" : "http://www.carolinareginato.com.br",
-		"description" : "Carolina Reginato",
+		"description" : "carolinareginato.com.br<br>Carolina Reginato",
 		"image" : {
 			"thumb" : "p/web/carolinareginato.jpg",
 			"big"	: "p/web/carolinareginato_b.jpg"
@@ -94,7 +94,7 @@
 	},
 
 	"fairuzmaggio": {
-		"name": "Fairuz Maggio Blog",
+		"name": "Fairuz Maggio",
 		"url" : "https://fairuzmaggio.net",
 		"description" : "fairuzmaggio.net<br>wordpress blog",
 		"image" : {
