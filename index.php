@@ -198,7 +198,7 @@
 	</script>
 
 
-<?php /*
+
 <!-- Start of StatCounter Code for Default Guide -->
 	<script type="text/javascript">
 	var sc_project=10377871;
@@ -226,6 +226,6 @@
   ga('create', 'UA-156944-15', 'auto');
   ga('send', 'pageview');
 </script>
-*/ ?>
+
 </body>
 </html>
