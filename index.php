@@ -89,25 +89,24 @@
 			</ul>
 
 			<div id="portfoliolist">
-
-			<?php
-			$i = 0;
-			foreach ($json as $folio) {
-				$i++;
-			?>
-				<!-- <?php echo $folio->name; ?> -->
-				<div data-toggle="modal" data-target="#myModal-<?php echo $i; ?>" class="portfolio <?php echo $folio->category; ?>" data-cat="<?php echo $folio->category; ?>">
-					<div class="portfolio-wrapper">
-						<img src="<?php echo $folio->image->thumb; ?>" alt="<?php echo $folio->name; ?>" />
-						<div class="label">
-							<div class="label-text">
-								<span class="text-category"><?php echo $folio->description; ?></span>
+				<ul class="ch-grid">
+					<?php
+					$i = 0;
+					foreach ($json as $folio) {
+						$i++;
+					?>
+						<!-- <?php echo $folio->name; ?> -->
+						<li>
+							<div class="ch-item" style="background-image: url(<?php echo $folio->image->thumb; ?>);">
+								<div class="ch-info">
+									<h3><?php echo $folio->name; ?></h3>
+									<p>by Angela Duncan <a href="http://drbl.in/eOPF">View on Dribbble</a></p>
+								</div>
 							</div>
-						<div class="label-bg"></div>
-						</div>
-					</div>
-				</div>
-			<?php } ?>
+						</li>
+								
+					<?php } ?>
+				</ul>
 			</div>
 
 	</section>

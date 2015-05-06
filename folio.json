@@ -1,5 +1,18 @@
 {
 
+	"carolinareginato.com.br": {
+		"name": "Carolina Reginato",
+		"url" : "http://www.carolinareginato.com.br",
+		"description" : "Carolina Reginato",
+		"image" : {
+			"thumb" : "p/web/carolinareginato.jpg",
+			"big"	: "p/web/carolinareginato_b.jpg"
+		},
+		"text" : "text file...",
+		"year" : "2012",
+		"category" : "web"
+	},
+
 	"darkglass.com": {
 		"name": "Darkglass Electronics",
 		"url" : "http://www.darkglass.com",
